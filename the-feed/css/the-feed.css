@@ -17,7 +17,7 @@ article{
     flex: row;
     flex-wrap: nowrap;
 
-    justify-content: space-between /*center*/;
+    justify-content: space-evenly /*center*/;
     align-items: flex-start;
     width: 70%;
 
