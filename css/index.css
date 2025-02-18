@@ -9,4 +9,9 @@ body {
     background-color: grey;
     color: white;
     text-align: center;
+
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    /*font-weight: <weight>;*/
+    font-style: normal;
 }
