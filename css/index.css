@@ -7,11 +7,15 @@
 
 body {
     background-color: grey;
-    color: white;
+    color: black;
     text-align: center;
 
     font-family: "Roboto Mono", serif;
     font-optical-sizing: auto;
     font-weight: 100;
     font-style: normal;
+}
+
+img {
+  border: 3px solid black;
 }
