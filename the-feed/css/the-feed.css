@@ -1,17 +1,14 @@
 
-.roboto-mono {
-    font-family: "Roboto Mono", serif;
-    font-optical-sizing: auto;
-    /*font-weight: <weight>;*/
-    font-style: normal;
-  }
-
-
 body {
     background-color: grey;
     color: white;
     text-align: center;
     align-items: center;
+
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    /*font-weight: <weight>;*/
+    font-style: normal;
 }
 
 article{
