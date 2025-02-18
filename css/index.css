@@ -1,9 +1,9 @@
-.roboto-mono {
+/*.roboto-mono {
     font-family: "Roboto Mono", serif;
     font-optical-sizing: auto;
-    /*font-weight: <weight>;*/
+    font-weight: <weight>;
     font-style: normal;
-  }
+  }*/
 
 body {
     background-color: grey;
