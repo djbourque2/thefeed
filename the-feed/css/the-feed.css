@@ -16,7 +16,8 @@ article{
     display: flex;
     flex: row;
     flex-wrap: nowrap;
-    justify-content: space-around;
+
+    justify-content: space-between /*center*/;
     align-items: flex-start;
     width: 70%;
 
@@ -27,9 +28,15 @@ article{
     padding-top: 1.25%;
     padding-bottom: 1.25%;
 
-    border: 3px solid none;
+}
+
+hr {
+    height: 0px;
+    border: 0px;
+    border-top: 2px solid black;
 }
 
 article img { 
     max-width: 20%;
+    border: 2px solid hsl(0, 0%, 75%);
 }
