@@ -1,0 +1,28 @@
+
+.roboto-mono {
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    /*font-weight: <weight>;*/
+    font-style: normal;
+  }
+
+
+body {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+article{
+    display: flex;
+    flex: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 70%;
+}
+
+article img { 
+    max-width: 20%;
+}
